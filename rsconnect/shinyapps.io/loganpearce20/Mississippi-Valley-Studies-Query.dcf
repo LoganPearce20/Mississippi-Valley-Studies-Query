@@ -1,0 +1,14 @@
+name: Mississippi-Valley-Studies-Query
+title:
+username:
+account: loganpearce20
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8976703
+bundleId: 7149797
+url: https://loganpearce20.shinyapps.io/Mississippi-Valley-Studies-Query/
+when: 1682697302.39953
+lastSyncTime: 1682697302.39955
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: mvsc-query.R|README.md
